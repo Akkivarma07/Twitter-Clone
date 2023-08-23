@@ -9,6 +9,18 @@ Users can register, log in, post updates, follow other users, like posts, and co
 
 It provides a basic foundation for a social networking application that can be extended or customized further based on specific requirements.
 
+![Screenshot 2023-08-24 002818 - Copy](https://github.com/Akkivarma07/Twitter-Clone/assets/124379624/9b8f5407-2d39-4f83-93a7-bf54feaef196)
+![Screenshot 2023-08-24 002752 - Copy](https://github.com/Akkivarma07/Twitter-Clone/assets/124379624/36649ee7-40d5-470b-bf2f-ca9adae0f2bc)
+![Screenshot 2023-08-24 002923 - Copy](https://github.com/Akkivarma07/Twitter-Clone/assets/124379624/9c094657-3070-41a3-8e76-c2e2f2ece9f7)
+![Screenshot 2023-08-24 002752](https://github.com/Akkivarma07/Twitter-Clone/assets/124379624/5759cba0-4bc4-45b0-91b5-3d77789b77a2)
+![Screenshot 2023-08-24 002639](https://github.com/Akkivarma07/Twitter-Clone/assets/124379624/48b23fb9-26ed-45f6-91b3-6f1c2b9aef65)
+![Screenshot 2023-08-24 002638](https://github.com/Akkivarma07/Twitter-Clone/assets/124379624/aeb28014-76da-41b4-b50f-130597eafa9a)
+![Screenshot 2023-08-24 002614](https://github.com/Akkivarma07/Twitter-Clone/assets/124379624/cc4c4f72-2f7c-4e4f-a592-1ae975200319)
+![Screenshot 2023-08-24 002545](https://github.com/Akkivarma07/Twitter-Clone/assets/124379624/998deaec-a2bd-48b6-9dfe-321080d3967d)
+![Screenshot 2023-08-24 002511](https://github.com/Akkivarma07/Twitter-Clone/assets/124379624/1b927db3-fa80-4805-bf30-234fd7ffcd56)
+![Screenshot 2023-08-24 002415](https://github.com/Akkivarma07/Twitter-Clone/assets/124379624/4ab41705-1c81-4cd7-bce5-f60cecd5a4bf)
+![Screenshot 2023-08-24 002923](https://github.com/Akkivarma07/Twitter-Clone/assets/124379624/87a21ab9-58f0-4802-af90-d6776457463c)
+
 # Features
 User Registration and Authentication
 
